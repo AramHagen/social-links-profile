@@ -198,9 +198,9 @@ body {
 body .card {
   background-color: var(--nero);
   border-radius: 0.7rem;
-  padding: 1.42rem 1.71rem 1.71rem;
+  padding: 2.2rem 2.8rem 2.8rem;
   text-align: center;
-  max-width: 330px;
+  max-width: 385px;
   width: 100%;
   box-sizing: border-box;
 }
@@ -210,7 +210,7 @@ body .card__avatar {
   border-radius: 50%;
 }
 body .card__name {
-  padding: 2rem 0 0.7rem;
+  padding: 1.34rem 0 0.3rem;
   font-weight: var(--bold);
 }
 body .card__location {
@@ -218,7 +218,7 @@ body .card__location {
   font-weight: var(--medium-2);
 }
 body .card__position {
-  padding: 1.9rem 0 1.7rem;
+  padding: 1.4rem 0;
 }
 body .card__social-links li {
   margin-bottom: 1rem;
